@@ -13,3 +13,4 @@ Devices can be controlled without the central hub or app needing to understand t
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
 
 ## Class Diagram
+![LAB Assignment #5 UML - Cordero Earl ](https://github.com/CorderoEarl/commandpattern/assets/142371953/fe2d916d-5c83-4ef1-a5d0-185699d123af)
